@@ -1,6 +1,6 @@
-# customui
+# Splash Screen
 
-A new Flutter project.
+I created beautiful, elegant Splash Screen with Quadratic-bezier ( Custom Shape).
 
 ## Getting Started
 

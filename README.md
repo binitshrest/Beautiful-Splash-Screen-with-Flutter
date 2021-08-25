@@ -2,6 +2,8 @@
 
 I created beautiful, elegant Splash Screen with Quadratic-bezier ( Custom Shape).
 
+![](Image/SplashScreen.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
